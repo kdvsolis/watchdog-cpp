@@ -1,0 +1,16 @@
+{
+    "processes": [
+        {
+            "name": "Notepad.exe",
+            "path": "C:\\Windows\\SysWOW64\\notepad.exe",
+            "startupParams": [],
+            "foreground": true
+        },
+        {
+            "name": "CalculatorApp.exe",
+            "path": "C:\\Windows\\SysWOW64\\calc.exe",
+            "startupParams": [],
+            "foreground": false
+        }
+    ]
+}
